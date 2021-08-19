@@ -15,20 +15,17 @@ namespace Tabuada {
             }
 
             Console.WriteLine("\r\nTabuada de 5");
-            for (int i = 1; i <= 10; i++)
-            {
+            for (int i = 1; i <= 10; i++) {
                 Console.WriteLine("5*{0}={1}", i, 5 * i);
             }
 
             Console.WriteLine("\r\nTabuada de 7");
-            for (int i = 1; i <= 10; i++)
-            {
+            for (int i = 1; i <= 10; i++) {
                 Console.WriteLine("7*{0}={1}", i, 7 * i);
             }
 
             Console.WriteLine("\r\nTabuada de 10");
-            for (int i = 1; i <= 10; i++)
-            {
+            for (int i = 1; i <= 10; i++) {
                 Console.WriteLine("10*{0}={1}", i, 10 * i);
             }
 
